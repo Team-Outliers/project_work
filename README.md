@@ -5,10 +5,10 @@
 ##### 3. Khushboo Tiwari
 ##### 4. Rajani Singh
 ### Objective of Project
-##### Primary: Find relationship between the growth of field's of industary (like:Technology,Fashion,Telecomunication,etc.,) using stock market data.
+##### Primary: Check  the relationship between  stock prices of different industries (eg. technology, fashion, telecommunication etc ) using stock data of different companies from different industries.
 ##### Secondary: Forcast the stock price of companies using above relation.
 ### Problem Statement:
-##### In this globalisation world all sector are depend on each other. So, the growth of one sector may be the beacuse of growth of other sector or loss of some sector. Then we have to know how much sector depend on each other.
+##### In today's era of globalisation, every sector depends upon other sectors. Growth of one sector may lead to growth of other sectors or it may decline their growth. So we want to study the relationship how different sectors/industries depend on each other.
 # We Use:
 ### Type of Data: Panel Data or Longitudinal Data
 ### Software: Python,R
