@@ -6,7 +6,7 @@
 ##### 4. Rajani Singh
 ### Objective of Project
 ##### Primary: Check  the relationship between  stock prices of different industries (eg. technology, fashion, telecommunication etc ) using stock data of different companies from different industries.
-##### Secondary: Forcast the stock price of companies using above relation.
+##### Secondary: Forcast the stock price of companies.
 ### Problem Statement:
 ##### In today's era of globalisation, every sector depends upon other sectors. Growth of one sector may lead to growth of other sectors or it may decline their growth. So we want to study the relationship how different sectors/industries depend on each other.
 # We Use:
