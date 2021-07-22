@@ -1,9 +1,3 @@
-
-
-
-
-
-
 ---
 title: "Nifty trend for next 30Days"
 author: "Rajat Kumar"
